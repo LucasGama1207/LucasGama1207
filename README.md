@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
  :sassy_man:  About me
-- :computer:Data Scientist
+- :computer:Data Analytics Specialist / Data Scientist
 - :student: Le Wagon Alumni - Batch #1011 
 - :school: Masters in International Business - University of Lyon
 - :world_map: Traveler - 26 countries and counting
